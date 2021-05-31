@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Griphcode
 - 👀 I’m interested in computer engineering 
 - 🌱 I’m currently learning programming 
-- 📫 How to reach me discord: https://discord.gg/kNVq89Xg5p
+- 📫 How to reach me discord: https://discord.gg/kNVq89Xg5p [User] = ('Sudo = God mode#0501')
