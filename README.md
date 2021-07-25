@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Griphcode
+- 👋 Hi, I’m @Griffincode
 - 👀 I’m interested in computer engineering 
-- 🌱 I’m currently learning programming 
-- 📫 How to reach me discord: https://discord.gg/kNVq89Xg5p [User] = ('Sudo = God mode#0501')
+- 📫 How to reach me discord: https://dsc.gg/Griffincode. [User] = ('Griffincode#0501')
+- I know how to Code in: Python, Java, Javascript, Ruby, R, C++, C#, and More
+- Join us On Reddit at our Offial Subreddit: r/Griffincode
+- Follow me on Twitter 
+- Subscribe to my YouTube Channel
+- Follow me here on GitHub
+- Thanks For Reading My README.md
