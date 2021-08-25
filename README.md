@@ -7,5 +7,6 @@ Hi, I’m @Griffincode
 - Follow me on Twitter 
 - Subscribe to my YouTube Channel
 - Follow me here on GitHub
-- Thanks For Reading My README.md
-:octocat:
+
+[![Griffincode's github stats](https://github-readme-stats.vercel.app/api?username=Griphcode)](https://github.com/Griphcode/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griphcode&layout=compact)](https://github.com/griphcode/github-readme-stats)
