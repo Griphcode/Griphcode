@@ -10,4 +10,4 @@ Hi, I’m @Griffincode
 
 [![Griffincode's github stats](https://github-readme-stats.vercel.app/api?username=Griphcode)](https://github.com/Griphcode/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griphcode&layout=compact)](https://github.com/griphcode/github-readme-stats)
-![Discord](https://img.shields.io/discord/833633894736592957?label=Discord&logo=Discord&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/griphcode/pi-tree?label=pi-tree%20commits&logo=Github&style=for-the-badge)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6693Q4)
