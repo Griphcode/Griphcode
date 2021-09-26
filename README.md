@@ -1,7 +1,7 @@
-Hi, I’m @Griffincode
+Hi, I’m @Griphcode
 -----
 - :atom: I’m interested in computers and engineering,  
-- 📫 How to reach me on: [Discord](https://dsc.gg/griffincode) | [Twitter](https://twitter.com/Griffincode2) | [Reddit](https://www.reddit.com/user/Griffincode21)
+- 📫 How to reach me on: [Discord](https://dsc.gg/griphcode) | [Twitter](https://twitter.com/Griphcode) | [Reddit](https://www.reddit.com/user/Griffincode21)
 - I know how to Code in: Python, Java, Javascript, Ruby, R, C++, C#, and More
 - Join us On Reddit at our Offical Subreddit: r/Griphcode
 - Follow me on Twitter 
@@ -12,4 +12,4 @@ Hi, I’m @Griffincode
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griphcode&layout=compact)](https://github.com/griphcode/github-readme-stats)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6693Q4)
 
-My Website https://griphcode.github.io/mysite/
+[My Website](https://griphcodes.wordpress.com/) 
