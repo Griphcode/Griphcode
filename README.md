@@ -12,3 +12,6 @@ Hi, I’m @Griphcode
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griphcode&layout=compact)](https://github.com/griphcode/github-readme-stats)
 
 [My Website](https://griphcodes.wordpress.com/) 
+
+
+This is how you say Griphcode in Morse code: **--. .-. .. .--. .... -.-. --- -.. .**
