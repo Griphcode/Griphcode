@@ -7,6 +7,7 @@
 - 🍵 I love to contribute to any open source project.
 - 📽️ I make YouTube videos be sure to check them out here: [My YouTube channel](https://www.youtube.com/channel/UCeN8RPt-v8GQ04rLVSF5DzA)
 - 🏷️ I like to write clean and consise code that everyone can understand.
+- 💸 Hire me on [Fiverr](https://www.fiverr.com/griphcode)
 --------
 ## 💬 How to reach me?
 <img align="left" alt="Griphcode | Twitter" width="50px" src="https://icon-library.com/images/transparent-discord-icon/transparent-discord-icon-4.jpg" />https://discord.com/channels/@me/830771139486679100
