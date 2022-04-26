@@ -19,7 +19,7 @@ fn Griphcode() {
 }
 ```
 
-<h3 align="left">Social media:</h3>
+## Social media
 <div align="center">
 <a href="https://stackoverflow.com/users/16465668/griphcode"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 <a href="https://twitter.com/griphcode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -29,7 +29,7 @@ fn Griphcode() {
 <a href="https://discord.gg/nc4vztQ9ye"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" href="https://discord.gg/nc4vztQ9ye" /></a>
 </div>
 
- ## Languages and Tools
+ ##  Skills
 <div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
