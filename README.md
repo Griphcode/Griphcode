@@ -55,16 +55,9 @@ fn Griphcode() {
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-## Support me
-
-<div>
-<a href="https://www.buymeacoffee.com/Griphcode"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-<a href="https://ko-fi.com/griphcode"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-<a href="https://www.patreon.com/Griphcode"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-</div>
   
 ## Stats
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Griphcode&count_private=true&theme=dark&show_icons=true&hide_langs_below=1)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Griphcode&count_private=true&theme=light&show_icons=true&hide_langs_below=1)
   
-  ![Griphcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Griphcode&show_icons=true&theme=dark)
+  ![Griphcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Griphcode&show_icons=true&theme=light)
