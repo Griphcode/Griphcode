@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Griphcode</h1>
-<h3 align="center">I love programming and Engineering!</h3>
+<h3 align="center">I love programming and Engineering!</h3> 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/830771139486679100?theme=light)](https://discord.com/users/830771139486679100)
 
 - 🔭 I’m currently working on [Griphitor](https://github.com/Griphitor/Griphitor)
 
@@ -10,7 +12,6 @@
 - 💬 Ask me about **JavaScript, Python, React, Rust**
 
 - 📫 How to reach me **griphcode@protonmail.com**
-
 
 ```rs
 fn Griphcode() {
@@ -46,7 +47,6 @@ fn Griphcode() {
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-ED8B00?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
