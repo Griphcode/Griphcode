@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Griphcode</h1>
 <h3 align="center">I love programming and Engineering!</h3> 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/830771139486679100?theme=light)](https://discord.com/users/830771139486679100)
+[![Discord Presence](https://lanyard.cnrad.dev/api/830771139486679100?theme=dark)](https://discord.com/users/830771139486679100)
 
 - 🔭 I’m currently working on [Griphitor](https://github.com/Griphitor/Griphitor)
 
@@ -58,6 +58,6 @@ fn Griphcode() {
   
 ## Stats
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Griphcode&count_private=true&theme=light&show_icons=true&hide_langs_below=1)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Griphcode&count_private=true&theme=dark&show_icons=true&hide_langs_below=1)
   
-  ![Griphcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Griphcode&show_icons=true&theme=light)
+  ![Griphcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Griphcode&show_icons=true&theme=dark)
